@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.phonegap.getting.started"
-	version 	= "1.0.0">
+	id		= "com.mnyaseen.app1"
+	version 	= "1.1.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>YaseenApp: Getting Started</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		Yaseen testing app description
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="https://github.com/mnyaseen"
+		email="mnyaseen@gmail.com">
+		Muhammad Naveed Yaseen
 	</author>
 
 	<gap:platforms>
